@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8404f36.chunk.css",
-    "main.js": "/static/js/main.638d7467.chunk.js",
-    "main.js.map": "/static/js/main.638d7467.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fda9e2ce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fda9e2ce.js.map",
-    "static/js/2.d55e416b.chunk.js": "/static/js/2.d55e416b.chunk.js",
-    "static/js/2.d55e416b.chunk.js.map": "/static/js/2.d55e416b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4f9514a2a4f53c045d93fe7ebeaf1026.js": "/precache-manifest.4f9514a2a4f53c045d93fe7ebeaf1026.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b8404f36.chunk.css.map": "/static/css/main.b8404f36.chunk.css.map",
-    "static/js/2.d55e416b.chunk.js.LICENSE.txt": "/static/js/2.d55e416b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/React-Temperature-control/static/css/main.b8404f36.chunk.css",
+    "main.js": "/React-Temperature-control/static/js/main.638d7467.chunk.js",
+    "main.js.map": "/React-Temperature-control/static/js/main.638d7467.chunk.js.map",
+    "runtime-main.js": "/React-Temperature-control/static/js/runtime-main.05b78836.js",
+    "runtime-main.js.map": "/React-Temperature-control/static/js/runtime-main.05b78836.js.map",
+    "static/js/2.d55e416b.chunk.js": "/React-Temperature-control/static/js/2.d55e416b.chunk.js",
+    "static/js/2.d55e416b.chunk.js.map": "/React-Temperature-control/static/js/2.d55e416b.chunk.js.map",
+    "index.html": "/React-Temperature-control/index.html",
+    "precache-manifest.65523c4837b61d259f883d2df2a37d7f.js": "/React-Temperature-control/precache-manifest.65523c4837b61d259f883d2df2a37d7f.js",
+    "service-worker.js": "/React-Temperature-control/service-worker.js",
+    "static/css/main.b8404f36.chunk.css.map": "/React-Temperature-control/static/css/main.b8404f36.chunk.css.map",
+    "static/js/2.d55e416b.chunk.js.LICENSE.txt": "/React-Temperature-control/static/js/2.d55e416b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-Temperature-control/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fda9e2ce.js",
+    "static/js/runtime-main.05b78836.js",
     "static/js/2.d55e416b.chunk.js",
     "static/css/main.b8404f36.chunk.css",
     "static/js/main.638d7467.chunk.js"
